@@ -25,6 +25,7 @@ const config = {
         docs: {
           sidebarPath: require.resolve("./sidebars.js"),
           editUrl: "https://github.com/semaphore-onchain-group/docs",
+          routeBasePath: "/",
         },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
@@ -57,15 +58,15 @@ const config = {
             items: [
               {
                 label: "Introduction",
-                to: "docs/",
+                to: "/",
               },
               {
                 label: "Guides",
-                to: "docs/guides/create-group",
+                to: "/guides/create-group",
               },
               {
                 label: "Resources",
-                to: "docs/resources",
+                to: "/resources",
               },
             ],
           },
