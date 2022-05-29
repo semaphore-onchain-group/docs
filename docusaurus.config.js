@@ -8,7 +8,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 const config = {
   title: "Semaphore NFT Group",
   tagline: "NFT on-chain group open platform",
-  url: "https://your-docusaurus-test-site.com",
+  url: "https://nft-group-docs.vercel.app/",
   baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
