@@ -24,7 +24,7 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve("./sidebars.js"),
-          editUrl: "https://github.com/semaphore-onchain-group/docs",
+          editUrl: "https://github.com/semaphore-onchain-group/docs/edit/main/",
           routeBasePath: "/",
         },
         theme: {
