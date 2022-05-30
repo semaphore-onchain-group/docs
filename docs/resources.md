@@ -9,5 +9,5 @@ sidebar_position: 3
 ## Github repositories
 
 -   Organization: https://github.com/semaphore-onchain-group
--   Reputation service: https://github.com/semaphore-onchain-group/nft-group
+-   Semaphore NFT Group service: https://github.com/semaphore-onchain-group/nft-group
 -   Documentation: https://github.com/semaphore-onchain-group/docs
