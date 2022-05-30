@@ -15,13 +15,15 @@ Also, you can leave the group whenever you want.
 
 - **POAP**: Same as PoH group.
 
-### Step1: Check ownership
-Your NFT ownership will be automatically checked
+### Step1: Generate Identity Commitment
+You need to generate Identity Commitment to join/leave the semaphore group.
 
-### Step2: Generate Identity commitment
-You need to generate the Identity commitment to join the semaphore group.
+### Step2: Check ownership
+Your NFT ownership will be automatically checked.
 
-You can find the details about the Identity commitment [here](https://semaphore.appliedzkp.org/docs/technical-reference/zk-kit).
+:::info
+You can find the details about the Identity Commitment [here](https://semaphore.appliedzkp.org/docs/technical-reference/zk-kit).
+:::
 
 ### Step3: Join Group
 Join the group and wait for the transaction to be confirmed.
@@ -30,5 +32,4 @@ Join the group and wait for the transaction to be confirmed.
 ## Leave Group
 
 Since these groups are semaphore groups, no one knows which group you joined.
-To leave the group, you can go to the group you joined (click the thumbnail).
-After completing the same process as Joining group, you can leave the group.
+To leave the group, you can go to the group you joined (click the group thumbnail). Then you can leave group by creating an identity commitment for the group. Even if the nft ownership check fails, you can leave group with warning alert. It is not compulsory now, but it may become compulsory in the future.
